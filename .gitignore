@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore Power BI Auto-generated Cache Files
+*.pbit
+*.pbix-journal
+
+# Ignore Temp Files
+*.tmp
+*.bak
+~$*
+.DS_Store
+
+# Ignore Large Data Files (if needed)
+*.csv
+*.xlsx
