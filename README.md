@@ -76,4 +76,4 @@ Yeh Power BI dashboard ek **HR Analytics Report** hai jo employees ke attrition,
 ---
 
 ## 🔗 Repository Link  
-👉 [GitHub Repository](your-repo-link-here)  
+👉 [GitHub Repository](https://github.com/Shalini-Nanda-ds/HR_Analytics_Dashboard.git)  
