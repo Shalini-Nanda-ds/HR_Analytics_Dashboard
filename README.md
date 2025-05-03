@@ -1,7 +1,7 @@
 # 📊 HR Analytics Dashboard - Power BI  
 
 ## 📖 Description  
-Yeh Power BI dashboard ek **HR Analytics Report** hai jo employees ke attrition, job satisfaction, aur salary trends ka analysis karta hai.  
+This is a Power BI dashboard for the HR Analytics Report, which analyzes employee attrition, job satisfaction, and salary trends
 
 ---
 
